@@ -1,3 +1,6 @@
+/*
+Esto es un comentario
+*/
 
 package PeticionDatos;
 
