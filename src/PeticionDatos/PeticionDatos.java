@@ -29,6 +29,9 @@ public class PeticionDatos extends MIDlet {
         frmDatos.append(txtApe);
         frmDatos.append(txtTel);
         pantalla.setCurrent(frmDatos);
+        /**
+         * Documentacion JavaDoc
+         */
         
     }
     
